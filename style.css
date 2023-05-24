@@ -1,0 +1,103 @@
+*{
+    background-color: silver;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.scale h1{
+   font-size: 34px;
+   color: #5b5f6b;
+   text-align: center;
+   padding-top: 14px;
+   height: 60px;
+   background-color: #e0e0e0
+}
+
+#box-1{
+    background-color: #007ae5;
+    padding: 8px;
+}
+
+#box-2{
+    background-color: #0083f1;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-3{
+    background-color: #008af3;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-4{
+    background-color: #1999f6;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-5{
+    background-color: #43a9f4;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-6{
+    background-color: #62b8f6;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-7{
+    background-color: #7fc1f6;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-8{
+    background-color: #008f89;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-9{
+    background-color: #f1b6c0;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-10{
+    background-color: #e79faf;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-11{
+    background-color: #de8d9d;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-12{
+    background-color: #d37d8a;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-13{
+    background-color: #ca6c79;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-14{
+    background-color: #c25e69;
+    padding: 8px;
+    margin-top: -16px;
+}
+
+#box-15{
+    background-color: #b9495d;
+    padding: 8px;
+    margin-top: -16px;
+}
